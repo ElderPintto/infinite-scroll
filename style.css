@@ -39,12 +39,23 @@ h1 {
 
 /* Image Container */
 .image-container {
-  margin: 10px 30%;
+  margin: 10px 10%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.image-container  a {
+  padding: 5%;
+  display: flex;
 }
 
 .image-container img {
   width: 100%;
+  height: auto;
   margin-top: 5px;
+  object-fit: cover;
 }
 
 /* Media Query: Large Smartphone */
