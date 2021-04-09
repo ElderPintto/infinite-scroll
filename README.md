@@ -5,7 +5,7 @@
 
 ## Online Tools 
 
-* Icons: [unsplash](https://unsplash.com/developers)
+* API: [unsplash](https://unsplash.com/developers)
 
 
 *This project is part of the [Zero to Master couse](https://academy.zerotomastery.io/p/javascript-projects). Project 2 of 20.*
